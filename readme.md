@@ -1,6 +1,8 @@
 # threejs-haunted-house
 Project to learn geometries, animations, lights, shadows... 
 
+![Preview project](./preview.jpg)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
