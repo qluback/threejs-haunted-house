@@ -1,4 +1,4 @@
-# Three.js Journey
+# threejs-haunted-house
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -14,4 +14,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
-# threejs-haunted-house
+
+Project followed with [ThreeJS Journey](https://threejs-journey.com/)
