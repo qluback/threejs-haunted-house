@@ -2,6 +2,8 @@
 Project to learn geometries, animations, lights, shadows...<br> 
 [Demo link](https://qluback-haunted-house-3d.netlify.app/)
 
+![Preview](./preview.jpg)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
