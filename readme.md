@@ -1,8 +1,6 @@
 # threejs-haunted-house
 Project to learn geometries, animations, lights, shadows...<br> 
-[Demo link](https://qluback-haunted-house-3d.netlify.app/)
-
-![Preview project](./preview.jpg)
+[Demo link](https://qluback-solar-system-3d.netlify.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
